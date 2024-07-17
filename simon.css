@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+}
+.box-container{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    border-radius: 15%;
+    margin: 1rem;
+}
+.red{
+    background-color: tomato;
+}
+.green{
+    background-color: rgb(171, 246, 23);
+}
+.blue{
+    background-color:cornflowerblue;
+}
+.yellow{
+    background-color: gold;
+}
+.gameflash{
+    background-color: white;
+}
+.userflash{
+    background-color: aliceblue;
+}
+.score{
+    display: flex;
+    justify-content: center;
+}
